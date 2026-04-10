@@ -37,7 +37,7 @@ function spawnSitom(){
     currentIndex = index;
 
     const img = document.createElement("img");
-    img.src = "Mogura.SITM.png";
+    img.src = "Mogura.SITM.NEW.png";
 
     img.onclick = () => {
         score++;
